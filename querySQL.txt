@@ -1,0 +1,5 @@
+ALTER TABLE provinces RENAME provinsi;
+ALTER TABLE indonesia_regencies RENAME kabuten_kota;
+ALTER TABLE indonesia_villages RENAME desa;
+ALTER TABLE indonesia_districts RENAME kecamatan;
+
